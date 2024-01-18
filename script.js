@@ -1,13 +1,4 @@
-/*
- **
- ** User stories:
- ** - Shows number of characters, words, sentences, paragraphs - Done
- ** - Show reading time - Done
- ** - Show keyword count - Done
- ** - Show reading level (Optional - how?) - Done
- ** - Above data should change/appear on every keypress - Done
- **
- */
+
 
 // Readability (Mashape) API Key for testing: PQ4FOFuaR6mshI6qpnQKQvkDZQXjp1o6Zcqjsnug7GvNggTzUE
 
